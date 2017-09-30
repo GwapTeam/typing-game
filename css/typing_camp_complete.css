@@ -1,0 +1,10 @@
+#background{
+    background-image: url(../img/background_camp.png);
+    opacity: 0.5;
+}
+#word{
+    color: Orange;
+}
+.navbar{
+    background-color: blue;
+}
