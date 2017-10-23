@@ -45,7 +45,7 @@ $ git clone -b master --recursive -j8 git@github.com:GwapTeam/typing-game.git
 
 _Branch: `development`_
 ```bash
-$ git clone -b development --recursive -j8 git@github.com:GwapTeam/typing-game.git
+$ git clone -b develop --recursive -j8 git@github.com:GwapTeam/typing-game.git
 ```
 
 _Branch: `feature`_
